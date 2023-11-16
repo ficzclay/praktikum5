@@ -28,7 +28,7 @@
 
 6. Hasil Akhir:
 
-- Menampilkan list setelah modifikasi dengan `print("List setelah modifikasi:", new_list)`
+- Menampilkan list setelah modifikasi dengan `print("List setelah modifikasi:", new_list)
 ![Screenshot_20231116_201253](https://github.com/ficzclay/praktikum5/assets/148204078/5f11507d-0fca-43bf-9976-d1a5f505f54a)
 
 
@@ -62,10 +62,11 @@ Program ini digunakan untuk menginput nilai mahasiswa dan menghitung nilai akhir
 6. Perulangan Input Data: Setelah satu data dimasukkan, program menanyakan apakah ingin menambahkan data mahasiswa lagi. Perulangan berlanjut sampai pengguna tidak ingin menambahkan data lagi.
 
 Berikut Hasilnya:
+
 ![Screenshot_20231116_202815](https://github.com/ficzclay/praktikum5/assets/148204078/6f9e9cd6-a9e3-4e4e-ac94-1c34a12152fe)
 
 
-Flowchart:
+Flowchart:<br>
 <img width="338" alt="3" src="https://github.com/ficzclay/praktikum5/assets/148204078/2aa82fde-29a6-42a7-9f64-a97bd41b7a0c">
 
 
